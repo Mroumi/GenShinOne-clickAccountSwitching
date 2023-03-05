@@ -1,2 +1,2 @@
 # GenShinOne-clickAccountSwitching
- 原神
+ 原神账号的一键切换
